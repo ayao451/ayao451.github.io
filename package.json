@@ -13,7 +13,7 @@
     "body-parser": "*",
     "compression": "*",
     "ejs": "^2.6.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "flipclock": "^0.10.0",
     "morgan": "*",
     "request": "*",
